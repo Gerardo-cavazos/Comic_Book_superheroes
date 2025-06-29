@@ -1,0 +1,6 @@
+public enum Affiliation {
+  GUARDIANS_OF_THE_GALAXY,
+  JUSTICE_LEAGUE,
+  X_MEN,
+  FANTASTIC_FOUR
+}
